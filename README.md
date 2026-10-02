@@ -1,0 +1,2 @@
+# zeezarr
+informatika 
